@@ -1,4 +1,4 @@
-# Rishabh Bansal
+# Bhavesh Gupta
 
 ### Academics
 CSE bachelor from GJUS&T Hisar. Hopefully, graduating in 2020.
@@ -8,26 +8,26 @@ CSE bachelor from GJUS&T Hisar. Hopefully, graduating in 2020.
 ### Development
 #### Languages
 ##### Most Comfortable in
-Python
-Javascript and 
-Basic web technologies like html,css etc.
+- Python
+- Javascript and 
+- Basic web technologies like html,css etc.
 
 ##### Have understanding of
-PHP
-C++
+- PHP
+- C++
 
 #### Databases
-MySQL
-PostgreSQL
+- MySQL
+- PostgreSQL
 
 #### Frameworks
-Flask
-Bootstrap
-Want to learn Django!
+- Flask
+- Bootstrap
+- Want to learn Django!
 
 #### Libraries
-jQuery
-Numpy
+- jQuery
+- Numpy
 
 -----
 
