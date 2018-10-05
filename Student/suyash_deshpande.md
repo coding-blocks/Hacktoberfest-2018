@@ -6,7 +6,7 @@ B.Tech - Computer Science And Engineering (CSE) - MANIT, Bhopal
 
 ### Development
 
-I am a web developer and a competitive coder. I am currently stufying angular 6.
+I am a web developer and a competitive coder. I am currently studying angular 6.
 
 
 ### Projects
