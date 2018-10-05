@@ -1,4 +1,4 @@
-# Rishabh Bansal
+# Harshit Mehndiratta
 
 ### Academics
 
