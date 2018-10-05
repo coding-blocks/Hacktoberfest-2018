@@ -15,3 +15,5 @@ Front End Developer
 
 Pixel Art Maker
 -----
+
+- [Prabhu Sharan Singh](https://github.com/caffeinatednerd)
