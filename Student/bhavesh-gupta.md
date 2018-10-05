@@ -36,7 +36,7 @@ CSE bachelor from GJUS&T Hisar. Hopefully, graduating in 2020.
 - Traintimes - [Training Project](https://github.com/bhavesh-g/Training_Project)
 used the Indian Railway API to fetch live data of trains, as per user query.
 
-- University Result Finder - [live here](http://bhaveshgupta.me/gjust/)
+- University Result Finder - [live here](http://bhaveshgupta.me/gjust/gjuupdate.html)
 an automatic url maker, to ease out the process of browsing and finding the academic result. PS: university website was very slow in loading the complete result section, so.
 
 - rest are being uploaded @ 0.001 kB/s
