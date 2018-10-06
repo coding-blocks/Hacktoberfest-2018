@@ -1,19 +1,15 @@
 # Prabhu Sharan Singh
+# Academics
+B.Tech CSE Student from Guru Gobind Singh Indraprastha University
 
-### Academics
-
-B.Tech CSE Student at Guru Gobind Singh Indraprastha University
------
-
-### Development
-
+# Development
 Front End Developer
------
 
+# Familiar Programming languages
+HTML, CSS, Javascript
+Python
+C++
 
-### Projects
+Email:- caffeinatednerd1@gmail.com
 
-Pixel Art Maker
------
-
-- [Prabhu Sharan Singh](https://github.com/caffeinatednerd)
+Github profile:- https://github.com/caffeinatednerd
