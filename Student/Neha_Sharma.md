@@ -3,6 +3,7 @@
 ### Academics
 
 B.tech Computer Science Engineering From Guru Nanak Dev University Regional Campus Jalandhar
+
 Front End Web Development @udacity
 
 -----
