@@ -6,7 +6,7 @@ After [adding your own page in the **Students** page](https://github.com/coding-
 - [kapil Chaudhary](https://github.com/kapil706)
 ```
 
-
+- [Rajat Gupta](https://github.com/rajatg98)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
 - [Harsh](https://github.com/hr21)
 - [Harsh Jain](https://github.com/hjain5164)
