@@ -10,4 +10,5 @@ After [adding your own page in the **Students** page](https://github.com/coding-
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
 - [Harsh](https://github.com/hr21)
 - [Harsh Jain](https://github.com/hjain5164)
+- [Vivek Singh](https://github.com/c0bu)
 
