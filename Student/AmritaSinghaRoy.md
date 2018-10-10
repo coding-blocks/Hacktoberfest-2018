@@ -1,4 +1,4 @@
-# Harsh Jain
+# Amrita Singha Roy
 
 ### Academics
 * College - RCC Institute of Information Technology
