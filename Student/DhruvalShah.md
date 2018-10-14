@@ -1,21 +1,22 @@
-  # Neha Sharma
+  # Dhruval Shah
 
 ### Academics
 
 B.tech Computer Science Engineering From Guru Nanak Dev University Regional Campus Jalandhar
 
-Front End Web Development @udacity
+Android App Development @udacity
 
 -----
 
 ### Development
 
 
-Full Stack Web Developer
+Android App Developer
 
 Actions on Google
 
 Graphics Designing
+
 
 -----
 
