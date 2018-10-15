@@ -20,3 +20,5 @@ Make your first Pull Request and earn a free tee from GitHub!
 
 Read about markdown syntax here
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+Commit some new text.
