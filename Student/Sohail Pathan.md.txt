@@ -1,24 +1,11 @@
-# Hey! This is [Sohail Pathan](https://sohailpathan.github.io/). 
-
-###  About Me 
-
-  - Startup Enthusiastic 
-  - Competitive Coder
-  - Web-Developer
-  
-### Bio
-    My life experience comes from meeting new people, technology, and places. I have the tendency to learn from everything, every conversation, and places. My core focus area is: Engineering, Acquiring Technology Algorithms, Real-world Implementation.
-
-### Academic Details
-
-    I am Persuing B.Tech (Computer Science and Engineering) from Lovely Professional University
-    
-
-### Contact Me 
-
-[LinkedIn](https://www.linkedin.com/in/sohail-pathan-47a952bb/)
-[Facebook](https://www.facebook.com/sohel.anir2)
-[HackerRank](https://github.com/sohail764245)
-
+# Hi! This is Chong
+ ### About Me
+	-AI Freak
+	-intrested in computer science    
+	-learning to code   
+	
+ 
+ ### Academic Details
+	I am currently studying Business Studies 
 
    
