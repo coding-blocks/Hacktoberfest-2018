@@ -1,6 +1,6 @@
 # Hacktoberfest-2018
 
-Make your first Pull Request and earn a free tee from GitHub!
+Make your first Pull Request and earn a free tee from GitHub and Digital Ocean!
 
 # Welcome to GitHub!
 ## This project is perfect for your first pull request
