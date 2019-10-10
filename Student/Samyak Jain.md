@@ -3,7 +3,7 @@
 ### About Me
 
 Senior Coordinator at #include Techno-learning club, working with a team of 40 technophiles.
-Tech Enthusiast, passion towards coding and solve real world problems. Skilled in Python, SQL with a keen interest in Data Science.
+Tech Enthusiast, passion towards coding and love to solve real world problems. Skilled in Python, SQL with a keen interest in Data Science.
 
 ----
 
