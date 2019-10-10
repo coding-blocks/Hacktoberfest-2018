@@ -15,15 +15,6 @@ Currently in 3rd Year B.Tech(Information Technology) from Shri G.S. Institute of
 
 -----
 
-### Development
-
-
-Full Stack Web Developer
-Data Science
-
-
------
-
 
 ### Connect 
 
